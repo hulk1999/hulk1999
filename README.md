@@ -1,2 +1,4 @@
-👋 Hi, nice to see you there!  
-👀 Check me at https://hulk1999.github.io/Portfolio/
+- Human: What do we want!?
+- Computer: Natural language processing!
+- Human: When do we want it!?
+- Computer: When do we want what?
